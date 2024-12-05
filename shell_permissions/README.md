@@ -8,3 +8,4 @@ This project contains scripts that manipulate file permissions and user manageme
 3. "4-empty" : creates an empty file colled "hello"
 4. "5-execute" : script that adds execute permission to owner of the file "hello"
 5. "6-multiple_permissions" : script tha adds execute permissions to the owner and the groupe owner of the file "hello"
+6. "9-John_Doe": script that sets the mode of the file Hello to this  "-rwxr-x-wx"
